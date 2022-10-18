@@ -1,4 +1,5 @@
-### John Mark Getigan Desu👋
+### <h1> John Mark Getigan</h1>
+### <p>developer</p>
 
 <!--
 **Jayxal/Jayxal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
